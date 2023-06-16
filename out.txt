@@ -1,0 +1,39 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\Aula\gui\Hero\my-first-project
+├── angular.json
+├── out.txt
+├── package-lock.json
+├── package.json
+├── README.md
+├── src
+|  ├── app
+|  |  ├── app.component.html
+|  |  ├── app.component.scss
+|  |  ├── app.component.spec.ts
+|  |  ├── app.component.ts
+|  |  ├── app.module.ts
+|  |  ├── hero-detail
+|  |  |  ├── hero-detail.component.html
+|  |  |  ├── hero-detail.component.scss
+|  |  |  ├── hero-detail.component.spec.ts
+|  |  |  └── hero-detail.component.ts
+|  |  ├── hero.service.spec.ts
+|  |  ├── hero.service.ts
+|  |  ├── Ihero.ts
+|  |  ├── heroes
+|  |  |  ├── heroes.component.html
+|  |  |  ├── heroes.component.scss
+|  |  |  ├── heroes.component.spec.ts
+|  |  |  └── heroes.component.ts
+|  |  └── mock-heroes.ts
+|  ├── assets
+|  ├── favicon.ico
+|  ├── index.html
+|  ├── main.ts
+|  └── styles.scss
+├── tsconfig.app.json
+├── tsconfig.json
+└── tsconfig.spec.json
+
+directory: 3323 file: 21742
+
+ignored: directory (78)
