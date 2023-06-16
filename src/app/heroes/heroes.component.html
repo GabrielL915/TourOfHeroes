@@ -7,13 +7,5 @@
     </button>
   </li>
 </ul>
+<app-hero-detail [hero]="selectedHero"></app-hero-detail>
 
-<div *ngIf="selectedHero">
-  <h2>{{selectedHero.name | uppercase}} Details</h2>
-  <div>id: {{selectedHero.id}}</div>
-  <div>
-    <mat-form-field>
-      <input matInput [(ngModel)]="selectedHero.name" placeholder="name">
-    </mat-form-field>
-  </div>
-</div>
