@@ -1,0 +1,7 @@
+<h2>Top Heroes</h2>
+<mat-list class="heroes-menu">
+  <a mat-list-item *ngFor="let hero of heroes">
+    routerLink="/detail/{{ hero.id }}">
+    {{ hero.name }}
+  </a>
+</mat-list>
